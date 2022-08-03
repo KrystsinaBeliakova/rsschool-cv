@@ -71,7 +71,7 @@ https://github.com/KrystsinaBeliakova/hw4_Kristina.git
 ## Work experience:
 
 + May 2010 — November 2011
-### [Mobitee](https://www.facebook.com/Mobitee/)
+#### [Mobitee](https://www.facebook.com/Mobitee/)
 **Freelancer**
 
 Project: "GPS Golf Assistant"
@@ -80,7 +80,7 @@ Project: "GPS Golf Assistant"
 
 
 + July 2011 — February 2013
-### [Belavia-Belarusian Airlines](https://en.belavia.by/)
+#### [Belavia-Belarusian Airlines](https://en.belavia.by/)
 **International Affairs Expert**
 
 Participation in negotiations on commercial cooperation with companies from Belarus, CIS and other countries, development and coordination of charter flights program, calculation of the charter flights, work with contracts, support and counseling of customers on charter flights, cooperation with international organizations to satisfy the requirements on served markets to ensure safe flights, preparation and provision reporting, claims consideration, provision of reference information on charter flights.
@@ -88,7 +88,7 @@ Participation in negotiations on commercial cooperation with companies from Bela
 ---
 
 + February 2013 — July 2014
-### [EPAM Systems Inc](https://www.epam.com/)
+#### [EPAM Systems Inc](https://www.epam.com/)
 **Analyst**
 
 Work with contracts, filling in corporate accounting system, sending invoices to the customer, accounting and analysis of reimbursable expenses in corporate accounting systems, providing consultations to staff, project managers and resource managers on the work in these systems,  accounting calculations with customers, dData integration from SAP to other internal systems, including the process of forecasting data, financial control of budget execution of the Customer, maintenance of internal accounting and reporting (revenue recognition and accrual, accounting of customers commitments), auditing support in the provision of additional requested information.
@@ -96,7 +96,7 @@ Work with contracts, filling in corporate accounting system, sending invoices to
 ---
 
 + August 2014 — July 2015
-### [Beltelecom](https://beltelecom.by/en)
+#### [Beltelecom](https://beltelecom.by/en)
 **Sales specialist**
 
 Preparation, coordination and conclusion of inter-operator agreements with international telecommunication operators, control over the performance of contractual obligations, coordination of routes, directions, cost of services provided in the context of fixed services and operators.
@@ -104,7 +104,7 @@ Preparation, coordination and conclusion of inter-operator agreements with inter
 ---
 
 + July 2015 — May 2019
-### Individual entrepreneur Beliakova K.I.
+#### Individual entrepreneur Beliakova K.I.
 **Makeup artist, hairstylist**
 
 Wedding and evening makeup and hairstyles, makeup and hair training, correction and coloring of eyebrows.
