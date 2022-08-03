@@ -1,3 +1,4 @@
+![My photo](./Photo17-min.jpg)
 # Krystsina Beliakova
 34 years old
 Mobile: +1 (628) 688-66-80
