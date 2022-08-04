@@ -53,7 +53,7 @@ Marketing, management and entrepreneurship faculty, Global economy
 - 2021 - Web-design, [UX-mind school](https://ux-school.by/)
 
 Project: https://www.figma.com/file/jDu2Ra1l5s5WD2fYbqOcp0/Prototype-Fitness-club-Copy 
-- 2021 - HTML, CSS, [IT-Shatle](https://www.instagram.com/it_shatle/?hl=en)
+- 2021 - HTML5, CSS3, [IT-Shatle](https://www.instagram.com/it_shatle/?hl=en)
 
 Projects:
 
