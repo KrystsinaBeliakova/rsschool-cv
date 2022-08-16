@@ -1,6 +1,5 @@
 ![My photo](./Photo17-min.jpg)
 # Krystsina Beliakova
-34 years old
 
 Mobile: +1 (628) 688-66-80
 
@@ -113,7 +112,7 @@ Wedding and evening makeup and hairstyles, makeup and hair training, correction 
 
 
 ## Skills and Achievements:
-Ability to work with large volume data, ability to work with contracts, ability to work with programs such as: MS Word, MS Excel, SAP, Visual Studio Code, Figma.
+Ability to work with large volume data, ability to work with contracts, ability to work with softwares/tools such as: MS Word, MS Excel, SAP, Visual Studio Code, Figma.
 
 I graduated from school with an average score of 8 out of 10, and graduated from university with an average score of 8.4 out of 10.
 
