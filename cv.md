@@ -1,4 +1,4 @@
-![My photo](./Photo17-min.jpg)
+![My photo](./assets/Photo17-min.jpg)
 # Krystsina Beliakova
 
 Mobile: +1 (628) 688-66-80
